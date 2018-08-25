@@ -3,4 +3,8 @@ bbb
 ccc
 yyyyyyyy
 pppppppppp
+<<<<<<< HEAD
 ss
+=======
+切换任何分支改代码
+>>>>>>> newbranch
